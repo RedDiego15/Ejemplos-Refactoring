@@ -3,15 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package codesmells;
+package codesmells.RefusedBequest;
 
 /**
  *
  * @author Lenovo comp
+ * Se utiliza Extract SuperClass
  */
-public class Address {
-    private String addres; 
-    private String mainStreet;
-    private int numberHouse;
+public class tambor extends Percusion {
     
 }

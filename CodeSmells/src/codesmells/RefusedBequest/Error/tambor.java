@@ -3,15 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package codesmells;
+package codesmells.RefusedBequest.Error;
 
 /**
  *
  * @author Lenovo comp
  */
-public class Address {
-    private String addres; 
-    private String mainStreet;
-    private int numberHouse;
+public class tambor extends InstrumentosViento{
     
 }
