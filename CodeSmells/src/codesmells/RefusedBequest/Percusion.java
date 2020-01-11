@@ -10,5 +10,10 @@ package codesmells.RefusedBequest;
  * @author Lenovo comp
  */
 public class Percusion extends Instrument{
+
+    @Override
+    public void ejecutar() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
     
 }

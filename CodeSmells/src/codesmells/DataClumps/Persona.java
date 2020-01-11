@@ -5,7 +5,8 @@
  */
 package codesmells.DataClumps;
 
-import codesmells.Address;
+import codesmells.FeaturedEnvy.*;
+import codesmells.FeaturedEnvy.Address;
 
 /**
  *

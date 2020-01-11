@@ -8,6 +8,7 @@ package codesmells.RefusedBequest;
 /**
  *
  * @author Lenovo comp
+ * tecnica de refactor Extract Super Class
  */
 public abstract class Instrument {
     
